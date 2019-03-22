@@ -1,2 +1,2 @@
-# recommender_systems
-Raw implementation of collaborative filtering and matrix factorization for recommender systems trained on a movielens dataset.
+# Recommender systems with Python
+The notebook includes raw implementation of collaborative filtering and matrix factorization algorithms for recommender systems with mathematical description and practical usage on a movielens dataset.
